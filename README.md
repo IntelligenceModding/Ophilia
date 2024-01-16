@@ -1,5 +1,7 @@
 Ophilia is a Discord Bot mainly made for Intelligence Modding.
 
+Written with love in Rust.
+
 <hr/>
 
 Features Ophilia would have in the future
